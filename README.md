@@ -39,7 +39,7 @@ allows developers to build reusable UI components.
 ### How to Install React
 **Step 1**: Install Node.js
 1. To install Node, visit the [Node.js](https://nodejs.org/en/).
-2, Once installation is complete, open your command prompt to confirm that Node has been successfully installed. Type in `node - v` in your command prompt, then enter. Move to the step 2 if the Node version is displayed in the command prompt.
+2. Once installation is complete, open your command prompt to confirm that Node has been successfully installed. Type in `node - v` in your command prompt, then enter. Move to the step 2 if the Node version is displayed in the command prompt.
 
 **Step 2**: Install React
 **Using CRA (Traditional)**
